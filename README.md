@@ -1,5 +1,5 @@
-# exercise_grammatical_charcount
-<h2>PHP Exercise - Grammatical Character Count</h2>
+# exercise_dna_sequence_match
+<h2>PHP Exercise - DNA Sequence Match</h2>
 This was an code exercise requested for a role.  I did not want the code to go to waste, so I'm releasing it here to assist anyone who might be trying to solve similar issues.
 <strong>I am not a geneticist, nor have I played one on TV.  Please do not throw this logic into your fancy new CRISPR machine!</strong>
 
